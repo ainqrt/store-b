@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "store",
+  "name": "store-b",
   "main": "src/index.ts",
   "compatibility_date": "2025-09-13",
   "d1_databases": [

@@ -1,0 +1,17 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "store",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-09-13",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "store",
+      "database_id": ""
+    }
+  ],
+  "vars": {
+    "JWT_SECRET": "",
+    "APP_ENV": "development"
+  }
+}
